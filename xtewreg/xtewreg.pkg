@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'xtewreg': Erickson-Whited linear errors-in-variables panel regression with identification from higher order cumulants/moments Use xtewreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtewreg.ado
+f xtewreg.sthlp
